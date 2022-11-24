@@ -4,6 +4,10 @@ node_modules
 design
 
 
+# Avoid your project being littered with annoying .DS_Store files!
+
+.prettierignore
+
 # local env files
 .env.local
 .env.*.local
